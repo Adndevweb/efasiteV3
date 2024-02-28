@@ -1,0 +1,216 @@
+.anta-regular {
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+p,h2,li,h1{
+    font-family: "Anta" ;
+}
+
+
+p {
+    color:red ;
+    font-size: 25px;
+}
+
+.adtliste1 {
+    color: #084b0b;
+    font-size: 35px;
+}
+
+.aaeliste1 {
+    color: #25FDE9;
+    font-size: 35px;
+}
+
+.mnliste1 {
+    color: #03224c;
+    font-size: 35px;
+}
+
+h2 {
+    color: rgb(243, 220, 11);
+    font-size: 40px;
+}
+
+.fin,.fin2{
+    color: rgb(136, 10, 84);
+    font-size: 25px;
+}
+
+
+.adt {
+	width: 350px;
+	height: 200px;
+}
+
+.aae {
+    width: 350px;
+    height: 200px;
+}
+
+.mn {
+    width: 350px;
+    height: 200px;
+}
+
+
+ul{
+    font-size: 30px;
+}
+
+body {
+    background-color: black; /* Le fond de la page sera noir */
+   
+}
+
+header{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: gray;
+    height: 100px;
+    top: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 3em;
+    position: relative;
+    right: 5x;
+    bottom: 120px;
+}
+
+main{
+    margin: 20px ;
+    padding: 5px;
+   
+  }
+  
+
+  .rafale{
+    width: 350px;
+    height: 200px;
+}
+
+.inf{
+    width: 350px;
+    height: 200px;
+}
+
+.imgRPIMA{
+    width: 350px;
+    height: 200px;
+
+}
+
+.imgRG{
+    width: 350px;
+    height: 200px;
+}
+
+.imgRDP{
+    width: 350px;
+    height: 200px;
+}
+
+.transport{
+    width: 350px;
+    height: 200px;
+}
+
+.RHC{
+    width: 350px;
+    height: 200px;
+}
+
+.sousmarin{
+    width: 350px;
+    height: 200px;
+}
+
+.fusillers{
+    width: 350px;
+    height: 200px;
+}
+
+.commandoimg{
+    width: 350px;
+    height: 200px;
+}
+
+.infanterieliste1{
+    font-size: 35px;
+    color: #084b0b;
+}
+
+.lafayetteliste1{
+    font-size: 35px;
+    color: #25FDE9;
+   
+}
+
+.RHCliste1{
+    font-size: 35px;
+    color:#25FDE9
+}
+
+.Piloteliste1{
+    font-size: 35px;
+    color: #25FDE9;
+}
+
+.smliste1{
+    font-size: 35px;
+    color: #03224c;
+}
+
+.fmliste1{
+    font-size: 35px;
+    color: #03224c;
+}
+
+.RPIMA{
+    font-size: 35px;
+    color: #084b0b;
+}
+
+.GENIE{
+    font-size: 35px;
+    color: #084b0b;
+}
+
+.RDP{
+    font-size: 35px;
+    color: #084b0b;
+}
+
+.commando1{
+    font-size: 35px;
+    color: #03224c;
+
+}
+
+
+
+
+
+.box1{
+    border: medium solid rgb(255, 255, 255);
+    padding: 20px;
+}
+
+.box2{
+    border: medium solid rgb(255, 255, 255);
+    padding: 20px;
+}
+
+.linktiktok{
+    color: chocolate;
+}
